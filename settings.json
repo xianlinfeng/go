@@ -1,0 +1,7 @@
+{
+    "go.gotoSymbol.includeImports": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.testFlags": [
+        "-v"
+    ]
+}
